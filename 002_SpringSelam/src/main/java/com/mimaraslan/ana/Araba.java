@@ -1,6 +1,6 @@
 package com.mimaraslan.ana;
 
-public class Araba {
+public class Araba {//h
 
 	private Yakit yakit;
 
